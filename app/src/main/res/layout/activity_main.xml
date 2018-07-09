@@ -38,7 +38,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
         android:gravity="center"
-        android:text="Sarajevo,BiH"
+        android:text="Tuzla,BiH"
         android:textColor="@android:color/white"
         android:textSize="30sp" />
 
